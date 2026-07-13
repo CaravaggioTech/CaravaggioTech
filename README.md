@@ -13,7 +13,7 @@
 - 💻 Knowledge in **Java**
 - 🎯 Professional focus: becoming a **Java Backend Developer**
 - 🌱 Currently building my first projects and expanding my Java skills
-- 📫 How to reach me: **[your email or contact]**
+- 📫 How to reach me: **henriquelimacaravaggio@gmail.com**
 
 ---
 
