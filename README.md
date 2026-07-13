@@ -1,20 +1,19 @@
-<h1 align="center">Hi there, I'm a Developer 👋</h1>
-<h3 align="center">Passionate about building solutions with Java</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Computer Science student | Aspiring Java Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Java+Developer;Always+learning+something+new;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+Java;Aiming+to+become+a+Backend+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **[project name]**
-- 🌱 Currently learning **[framework/topic, e.g. Spring Boot]**
-- 👯 Open to collaborating on **[type of project]**
-- 💬 Ask me about **Java**
+- 🎓 Currently a **Computer Science student**
+- 💻 Knowledge in **Java**
+- 🎯 Professional focus: becoming a **Java Backend Developer**
+- 🌱 Currently building my first projects and expanding my Java skills
 - 📫 How to reach me: **[your email or contact]**
-- ⚡ Fun fact: **[something interesting about you]**
 
 ---
 
@@ -24,7 +23,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-> Add more badges as you learn new technologies. Find more options at [shields.io](https://shields.io/) and [simple-icons](https://simpleicons.org/).
+> More badges will be added here as I learn new tools and frameworks (e.g. Spring Boot, SQL, Docker).
 
 ---
 
@@ -42,11 +41,9 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
-- **[Project Name 1](#)** — short description of what it does and the tech used.
-- **[Project Name 2](#)** — short description of what it does and the tech used.
-- **[Project Name 3](#)** — short description of what it does and the tech used.
+🚧 No projects yet — I'm just getting started! This section will be updated soon with my first Java backend projects.
 
 ---
 
@@ -54,8 +51,6 @@
 
 <p align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
