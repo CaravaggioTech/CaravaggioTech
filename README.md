@@ -25,21 +25,7 @@
 
 > More badges will be added here as I learn new tools and frameworks (e.g. Spring Boot, SQL, Docker).
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
-</p>
-
-> Replace `YOUR_USERNAME` with your GitHub username for the cards to work.
-
----
 
 ### 📌 Projects
 
