@@ -1,71 +1,64 @@
-<h1 align="center">Olá, tudo bem? 👋</h1>
-<h3 align="center">Sou desenvolvedor(a) apaixonado(a) por criar soluções através do código</h3>
+<h1 align="center">Hi there, I'm a Developer 👋</h1>
+<h3 align="center">Passionate about building solutions with Java</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor(a)+de+Software;Sempre+aprendendo+algo+novo;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Java+Developer;Always+learning+something+new;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-- 🔭 Atualmente trabalhando em **[nome do projeto]**
-- 🌱 Estudando **[tecnologia/linguagem]**
-- 👯 Aberto(a) a colaborar em **[tipo de projeto]**
-- 💬 Me pergunte sobre **[suas áreas de expertise]**
-- 📫 Como me encontrar: **[seu e-mail ou contato]**
-- ⚡ Fato curioso: **[algo interessante sobre você]**
+- 🔭 Currently working on **[project name]**
+- 🌱 Currently learning **[framework/topic, e.g. Spring Boot]**
+- 👯 Open to collaborating on **[type of project]**
+- 💬 Ask me about **Java**
+- 📫 How to reach me: **[your email or contact]**
+- ⚡ Fun fact: **[something interesting about you]**
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-> Edite os badges acima para refletir as tecnologias que você realmente usa. Encontre mais opções em [shields.io](https://shields.io/) e [simple-icons](https://simpleicons.org/).
+> Add more badges as you learn new technologies. Find more options at [shields.io](https://shields.io/) and [simple-icons](https://simpleicons.org/).
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
 </p>
 
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para os cartões funcionarem.
+> Replace `YOUR_USERNAME` with your GitHub username for the cards to work.
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Featured Projects
 
-- **[Nome do Projeto 1](#)** — breve descrição do que o projeto faz e as tecnologias usadas.
-- **[Nome do Projeto 2](#)** — breve descrição do que o projeto faz e as tecnologias usadas.
-- **[Nome do Projeto 3](#)** — breve descrição do que o projeto faz e as tecnologias usadas.
+- **[Project Name 1](#)** — short description of what it does and the tech used.
+- **[Project Name 2](#)** — short description of what it does and the tech used.
+- **[Project Name 3](#)** — short description of what it does and the tech used.
 
 ---
 
-### 🌐 Redes e Contato
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center"><i>Obrigado(a) por visitar meu perfil! ⭐</i></p>
+<p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
